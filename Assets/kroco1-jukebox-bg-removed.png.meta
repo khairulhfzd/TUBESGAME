@@ -1,0 +1,2418 @@
+fileFormatVersion: 2
+guid: dea55dc0450f1284887878243cd9954b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2727976876480377805
+    second: kroco1-jukebox-bg-removed_0
+  - first:
+      213: 1445781033910236773
+    second: kroco1-jukebox-bg-removed_1
+  - first:
+      213: -6230067415694711310
+    second: kroco1-jukebox-bg-removed_2
+  - first:
+      213: -6632004582399536019
+    second: kroco1-jukebox-bg-removed_3
+  - first:
+      213: -3415818301460210500
+    second: kroco1-jukebox-bg-removed_4
+  - first:
+      213: 8938591676839354183
+    second: kroco1-jukebox-bg-removed_5
+  - first:
+      213: 4577851648719323474
+    second: kroco1-jukebox-bg-removed_6
+  - first:
+      213: 7261561345558351740
+    second: kroco1-jukebox-bg-removed_7
+  - first:
+      213: -6447231863059777027
+    second: kroco1-jukebox-bg-removed_8
+  - first:
+      213: -1753728294424238913
+    second: kroco1-jukebox-bg-removed_9
+  - first:
+      213: -2360780127097706232
+    second: kroco1-jukebox-bg-removed_10
+  - first:
+      213: -2307956297014127146
+    second: kroco1-jukebox-bg-removed_11
+  - first:
+      213: 6185505646632654728
+    second: kroco1-jukebox-bg-removed_12
+  - first:
+      213: -1269196597062538011
+    second: kroco1-jukebox-bg-removed_13
+  - first:
+      213: 7375129676793904604
+    second: kroco1-jukebox-bg-removed_14
+  - first:
+      213: -5309894889310434999
+    second: kroco1-jukebox-bg-removed_15
+  - first:
+      213: -6064137263914097155
+    second: kroco1-jukebox-bg-removed_16
+  - first:
+      213: -6905041088599046702
+    second: kroco1-jukebox-bg-removed_17
+  - first:
+      213: -5088026629392133280
+    second: kroco1-jukebox-bg-removed_18
+  - first:
+      213: -7185180213026008471
+    second: kroco1-jukebox-bg-removed_19
+  - first:
+      213: 2494033903688755299
+    second: kroco1-jukebox-bg-removed_20
+  - first:
+      213: 2491792310604084529
+    second: kroco1-jukebox-bg-removed_21
+  - first:
+      213: -8969825393676587050
+    second: kroco1-jukebox-bg-removed_22
+  - first:
+      213: 183109306717824279
+    second: kroco1-jukebox-bg-removed_23
+  - first:
+      213: -3229893500520509522
+    second: kroco1-jukebox-bg-removed_24
+  - first:
+      213: 5516140679199194963
+    second: kroco1-jukebox-bg-removed_25
+  - first:
+      213: 8276341021412937565
+    second: kroco1-jukebox-bg-removed_26
+  - first:
+      213: -1263899143989018431
+    second: kroco1-jukebox-bg-removed_27
+  - first:
+      213: -6017016069990110248
+    second: kroco1-jukebox-bg-removed_28
+  - first:
+      213: 8847542031745659380
+    second: kroco1-jukebox-bg-removed_29
+  - first:
+      213: -5556599750479597341
+    second: kroco1-jukebox-bg-removed_30
+  - first:
+      213: 744026583985350255
+    second: kroco1-jukebox-bg-removed_31
+  - first:
+      213: -4564546932898822025
+    second: kroco1-jukebox-bg-removed_32
+  - first:
+      213: 2708321154805769376
+    second: kroco1-jukebox-bg-removed_33
+  - first:
+      213: -6386956624448151712
+    second: kroco1-jukebox-bg-removed_34
+  - first:
+      213: -1971353375359783738
+    second: kroco1-jukebox-bg-removed_35
+  - first:
+      213: 5677259624970415560
+    second: kroco1-jukebox-bg-removed_36
+  - first:
+      213: -1835771210528875264
+    second: kroco1-jukebox-bg-removed_37
+  - first:
+      213: -4655046626783591871
+    second: kroco1-jukebox-bg-removed_38
+  - first:
+      213: 2266238233371050818
+    second: kroco1-jukebox-bg-removed_39
+  - first:
+      213: -3239866710963097566
+    second: kroco1-jukebox-bg-removed_40
+  - first:
+      213: -973076656096886756
+    second: kroco1-jukebox-bg-removed_41
+  - first:
+      213: -6273123955490527064
+    second: kroco1-jukebox-bg-removed_42
+  - first:
+      213: -5437057334295898711
+    second: kroco1-jukebox-bg-removed_43
+  - first:
+      213: 4683511705250420924
+    second: kroco1-jukebox-bg-removed_44
+  - first:
+      213: 8011374724867550175
+    second: kroco1-jukebox-bg-removed_45
+  - first:
+      213: 9029025149324197271
+    second: kroco1-jukebox-bg-removed_46
+  - first:
+      213: -7870951160120494724
+    second: kroco1-jukebox-bg-removed_47
+  - first:
+      213: 3902657012790804461
+    second: kroco1-jukebox-bg-removed_48
+  - first:
+      213: -7206410572489822070
+    second: kroco1-jukebox-bg-removed_49
+  - first:
+      213: -796491336042709148
+    second: kroco1-jukebox-bg-removed_50
+  - first:
+      213: 5699721057258669381
+    second: kroco1-jukebox-bg-removed_51
+  - first:
+      213: -2874269856039400857
+    second: kroco1-jukebox-bg-removed_52
+  - first:
+      213: 3282400759442388953
+    second: kroco1-jukebox-bg-removed_53
+  - first:
+      213: 3895094723940672806
+    second: kroco1-jukebox-bg-removed_54
+  - first:
+      213: -5981813221782264480
+    second: kroco1-jukebox-bg-removed_55
+  - first:
+      213: 1078383458063747813
+    second: kroco1-jukebox-bg-removed_56
+  - first:
+      213: -8454254282077122551
+    second: kroco1-jukebox-bg-removed_57
+  - first:
+      213: -2371682636371983703
+    second: kroco1-jukebox-bg-removed_58
+  - first:
+      213: -5404256720149315919
+    second: kroco1-jukebox-bg-removed_59
+  - first:
+      213: -3816908928701378401
+    second: kroco1-jukebox-bg-removed_60
+  - first:
+      213: -6881074408328366291
+    second: kroco1-jukebox-bg-removed_61
+  - first:
+      213: -4250515985423923758
+    second: kroco1-jukebox-bg-removed_62
+  - first:
+      213: 1959973543758063969
+    second: kroco1-jukebox-bg-removed_63
+  - first:
+      213: -5897021231525838089
+    second: kroco1-jukebox-bg-removed_64
+  - first:
+      213: 7020865562453752458
+    second: kroco1-jukebox-bg-removed_65
+  - first:
+      213: 1200956473695108514
+    second: kroco1-jukebox-bg-removed_66
+  - first:
+      213: -5020504034322631624
+    second: kroco1-jukebox-bg-removed_67
+  - first:
+      213: -8054231129927496242
+    second: kroco1-jukebox-bg-removed_68
+  - first:
+      213: 3621258954736891564
+    second: kroco1-jukebox-bg-removed_69
+  - first:
+      213: -4959169363424088354
+    second: kroco1-jukebox-bg-removed_70
+  - first:
+      213: 5342862374934055180
+    second: kroco1-jukebox-bg-removed_71
+  - first:
+      213: 151583581131430571
+    second: kroco1-jukebox-bg-removed_72
+  - first:
+      213: -2132822685565998568
+    second: kroco1-jukebox-bg-removed_73
+  - first:
+      213: 7746322073762241309
+    second: kroco1-jukebox-bg-removed_74
+  - first:
+      213: 1472669519173118669
+    second: kroco1-jukebox-bg-removed_75
+  - first:
+      213: 3336199665909279554
+    second: kroco1-jukebox-bg-removed_76
+  - first:
+      213: -2505655827850793143
+    second: kroco1-jukebox-bg-removed_77
+  - first:
+      213: -5292175003746101061
+    second: kroco1-jukebox-bg-removed_78
+  - first:
+      213: -4932696380377702725
+    second: kroco1-jukebox-bg-removed_79
+  - first:
+      213: 3821666944274650872
+    second: kroco1-jukebox-bg-removed_80
+  - first:
+      213: -6693101558341940588
+    second: kroco1-jukebox-bg-removed_81
+  - first:
+      213: 8989032349371611558
+    second: kroco1-jukebox-bg-removed_82
+  - first:
+      213: 145605989210768451
+    second: kroco1-jukebox-bg-removed_83
+  - first:
+      213: 1698390860691835425
+    second: kroco1-jukebox-bg-removed_84
+  - first:
+      213: 8082174176754570546
+    second: kroco1-jukebox-bg-removed_85
+  - first:
+      213: 7770417399653980290
+    second: kroco1-jukebox-bg-removed_86
+  - first:
+      213: 8914462481424961673
+    second: kroco1-jukebox-bg-removed_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_0
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 638
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c48e9fb77442ad0800000000000000
+      internalID: -2727976876480377805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 638
+        width: 71
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5667735b032701410800000000000000
+      internalID: 1445781033910236773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_2
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 638
+        width: 71
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5e7c891ba5a89a0800000000000000
+      internalID: -6230067415694711310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 638
+        width: 71
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64105d58f266f3a0800000000000000
+      internalID: -6632004582399536019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 637
+        width: 70
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc9f244a539890d0800000000000000
+      internalID: -3415818301460210500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_5
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 638
+        width: 72
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fd54a75c14c0c70800000000000000
+      internalID: 8938591676839354183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_6
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 638
+        width: 71
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2510a5ce1dbc78f30800000000000000
+      internalID: 4577851648719323474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_7
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 638
+        width: 72
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f86b4029f36c460800000000000000
+      internalID: 7261561345558351740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_8
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 637
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9fdb987c4d686a0800000000000000
+      internalID: -6447231863059777027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_9
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 637
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4aa4a686189a7e0800000000000000
+      internalID: -1753728294424238913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 509
+        width: 78
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8092a8b7bf2dc3fd0800000000000000
+      internalID: -2360780127097706232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 509
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5d857d9fd78ffd0800000000000000
+      internalID: -2307956297014127146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 509
+        width: 79
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88756b70d9457d550800000000000000
+      internalID: 6185505646632654728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_13
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 509
+        width: 79
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ece3f16b68e26ee0800000000000000
+      internalID: -1269196597062538011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_14
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 509
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddfdbdad59b95660800000000000000
+      internalID: 7375129676793904604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_15
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 509
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9494dff2bb67f46b0800000000000000
+      internalID: -5309894889310434999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_16
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 509
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5e033a94bd7dba0800000000000000
+      internalID: -6064137263914097155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_17
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 509
+        width: 89
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5c392e6bd5c20a0800000000000000
+      internalID: -6905041088599046702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_18
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 509
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0639a53fcb2b369b0800000000000000
+      internalID: -5088026629392133280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_19
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 509
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9625b6b3aac194c90800000000000000
+      internalID: -7185180213026008471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 438
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36826271f969c9220800000000000000
+      internalID: 2494033903688755299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 433
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1353b9787ef949220800000000000000
+      internalID: 2491792310604084529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 432
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfe0a02457c48380800000000000000
+      internalID: -8969825393676587050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 428
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715ebfdb1f88a8200800000000000000
+      internalID: 183109306717824279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 432
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafc12759fc1d23d0800000000000000
+      internalID: -3229893500520509522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 382
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fffb2d8b44d8c40800000000000000
+      internalID: 5516140679199194963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_26
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 382
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fcf4d1f487bd270800000000000000
+      internalID: 8276341021412937565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_27
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 382
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c04d9acc6ab57ee0800000000000000
+      internalID: -1263899143989018431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_28
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 382
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db2c6c83c34f7ca0800000000000000
+      internalID: -6017016069990110248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_29
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 392
+        width: 106
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1b9810a98c8ca70800000000000000
+      internalID: 8847542031745659380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_30
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 382
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0b3a197fdf2e2b0800000000000000
+      internalID: -5556599750479597341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_31
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 430
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e4e17c30535a00800000000000000
+      internalID: 744026583985350255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_32
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 430
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77887ff9fb877a0c0800000000000000
+      internalID: -4564546932898822025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_33
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 426
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4afd1bdb3e59520800000000000000
+      internalID: 2708321154805769376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_34
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 430
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f90f32ac8fc57a0800000000000000
+      internalID: -6386956624448151712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_35
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 426
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cca9eebc8854a4e0800000000000000
+      internalID: -1971353375359783738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_36
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 408
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd670cac8da9ce40800000000000000
+      internalID: 5677259624970415560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_37
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 447
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d99837fc70686e0800000000000000
+      internalID: -1835771210528875264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_38
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 382
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1420fa5a1c3f56fb0800000000000000
+      internalID: -4655046626783591871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 253
+        width: 76
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2438d7c8aab437f10800000000000000
+      internalID: 2266238233371050818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_40
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 253
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2207e65546ea903d0800000000000000
+      internalID: -3239866710963097566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_41
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 253
+        width: 159
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10ce16dfefee72f0800000000000000
+      internalID: -973076656096886756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_42
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 253
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a86ef8bff261f8a0800000000000000
+      internalID: -6273123955490527064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_43
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 253
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a55cd54921bb84b0800000000000000
+      internalID: -5437057334295898711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_44
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 253
+        width: 76
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8d5d4e41d2ff040800000000000000
+      internalID: 4683511705250420924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_45
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 133
+        width: 90
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbe54ebdde1e2f60800000000000000
+      internalID: 8011374724867550175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_46
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 253
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d7985198a8d4d70800000000000000
+      internalID: 9029025149324197271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_47
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 363
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75b1983f93c4c290800000000000000
+      internalID: -7870951160120494724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_48
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 359
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def359f30e5092630800000000000000
+      internalID: 3902657012790804461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 309
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80ff19f3cfadfb90800000000000000
+      internalID: -7206410572489822070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 304
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f7f70995b42f4f0800000000000000
+      internalID: -796491336042709148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 304
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54587b86a1a791f40800000000000000
+      internalID: 5699721057258669381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_52
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 304
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a88226bca8c18d0800000000000000
+      internalID: -2874269856039400857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_53
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 300
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7390d891e6d8d20800000000000000
+      internalID: 3282400759442388953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 303
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6256bfaa3082e0630800000000000000
+      internalID: 3895094723940672806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_55
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 302
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065eeea51945cfca0800000000000000
+      internalID: -5981813221782264480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_56
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 303
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea0c85aa0037fe00800000000000000
+      internalID: 1078383458063747813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 253
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900d7f3e5847caa80800000000000000
+      internalID: -8454254282077122551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_58
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 309
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2061b3537161fd0800000000000000
+      internalID: -2371682636371983703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_59
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 309
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7b7065293005b0800000000000000
+      internalID: -5404256720149315919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_60
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 308
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90dcbc5d8d970bc0800000000000000
+      internalID: -3816908928701378401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_61
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 309
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d277e8a78438180a0800000000000000
+      internalID: -6881074408328366291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_62
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 279
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d500b04b322305c0800000000000000
+      internalID: -4250515985423923758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 134
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169ecdcbd89333b10800000000000000
+      internalID: 1959973543758063969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_64
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 134
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f247f50f62992ea0800000000000000
+      internalID: -5897021231525838089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_65
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 134
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a34d9e7002f6160800000000000000
+      internalID: 7020865562453752458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_66
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 134
+        width: 80
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad7d45cc87aaa010800000000000000
+      internalID: 1200956473695108514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_67
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 134
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834b8c83e26935ab0800000000000000
+      internalID: -5020504034322631624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_68
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 212
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd47c1e57f993090800000000000000
+      internalID: -8054231129927496242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca67bc445db414230800000000000000
+      internalID: 3621258954736891564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_70
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 197
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede6b102dbd7d2bb0800000000000000
+      internalID: -4959169363424088354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_71
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 113
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c098eb5b509a52a40800000000000000
+      internalID: 5342862374934055180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_72
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 133
+        width: 115
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baade13c6788a1200800000000000000
+      internalID: 151583581131430571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_73
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 133
+        width: 118
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81aa1f15111b662e0800000000000000
+      internalID: -2132822685565998568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_74
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 7
+        width: 96
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b9d5262e6708b60800000000000000
+      internalID: 7746322073762241309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_75
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 133
+        width: 81
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaebd90029ff6410800000000000000
+      internalID: 1472669519173118669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 54
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bac429bef8c4e20800000000000000
+      internalID: 3336199665909279554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_77
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 54
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe093dc4f1a3dd0800000000000000
+      internalID: -2505655827850793143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_78
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 53
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8138c8fda6e86b0800000000000000
+      internalID: -5292175003746101061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_79
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 49
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe5bbec6ca8b8bb0800000000000000
+      internalID: -4932696380377702725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_80
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 53
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6d75776d9490530800000000000000
+      internalID: 3821666944274650872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_81
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 109
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a4a6128935d13a0800000000000000
+      internalID: -6693101558341940588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_82
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a93acabb457fbc70800000000000000
+      internalID: 8989032349371611558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_83
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 51
+        width: 248
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344c31030eb450200800000000000000
+      internalID: 145605989210768451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_84
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 0
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a8e454d75e19710800000000000000
+      internalID: 1698390860691835425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_85
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 0
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2359a42b796a92070800000000000000
+      internalID: 8082174176754570546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_86
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288d3ee947116db60800000000000000
+      internalID: 7770417399653980290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kroco1-jukebox-bg-removed_87
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 0
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d1e0656886bb70800000000000000
+      internalID: 8914462481424961673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kroco1-jukebox-bg-removed_0: -2727976876480377805
+      kroco1-jukebox-bg-removed_1: 1445781033910236773
+      kroco1-jukebox-bg-removed_10: -2360780127097706232
+      kroco1-jukebox-bg-removed_11: -2307956297014127146
+      kroco1-jukebox-bg-removed_12: 6185505646632654728
+      kroco1-jukebox-bg-removed_13: -1269196597062538011
+      kroco1-jukebox-bg-removed_14: 7375129676793904604
+      kroco1-jukebox-bg-removed_15: -5309894889310434999
+      kroco1-jukebox-bg-removed_16: -6064137263914097155
+      kroco1-jukebox-bg-removed_17: -6905041088599046702
+      kroco1-jukebox-bg-removed_18: -5088026629392133280
+      kroco1-jukebox-bg-removed_19: -7185180213026008471
+      kroco1-jukebox-bg-removed_2: -6230067415694711310
+      kroco1-jukebox-bg-removed_20: 2494033903688755299
+      kroco1-jukebox-bg-removed_21: 2491792310604084529
+      kroco1-jukebox-bg-removed_22: -8969825393676587050
+      kroco1-jukebox-bg-removed_23: 183109306717824279
+      kroco1-jukebox-bg-removed_24: -3229893500520509522
+      kroco1-jukebox-bg-removed_25: 5516140679199194963
+      kroco1-jukebox-bg-removed_26: 8276341021412937565
+      kroco1-jukebox-bg-removed_27: -1263899143989018431
+      kroco1-jukebox-bg-removed_28: -6017016069990110248
+      kroco1-jukebox-bg-removed_29: 8847542031745659380
+      kroco1-jukebox-bg-removed_3: -6632004582399536019
+      kroco1-jukebox-bg-removed_30: -5556599750479597341
+      kroco1-jukebox-bg-removed_31: 744026583985350255
+      kroco1-jukebox-bg-removed_32: -4564546932898822025
+      kroco1-jukebox-bg-removed_33: 2708321154805769376
+      kroco1-jukebox-bg-removed_34: -6386956624448151712
+      kroco1-jukebox-bg-removed_35: -1971353375359783738
+      kroco1-jukebox-bg-removed_36: 5677259624970415560
+      kroco1-jukebox-bg-removed_37: -1835771210528875264
+      kroco1-jukebox-bg-removed_38: -4655046626783591871
+      kroco1-jukebox-bg-removed_39: 2266238233371050818
+      kroco1-jukebox-bg-removed_4: -3415818301460210500
+      kroco1-jukebox-bg-removed_40: -3239866710963097566
+      kroco1-jukebox-bg-removed_41: -973076656096886756
+      kroco1-jukebox-bg-removed_42: -6273123955490527064
+      kroco1-jukebox-bg-removed_43: -5437057334295898711
+      kroco1-jukebox-bg-removed_44: 4683511705250420924
+      kroco1-jukebox-bg-removed_45: 8011374724867550175
+      kroco1-jukebox-bg-removed_46: 9029025149324197271
+      kroco1-jukebox-bg-removed_47: -7870951160120494724
+      kroco1-jukebox-bg-removed_48: 3902657012790804461
+      kroco1-jukebox-bg-removed_49: -7206410572489822070
+      kroco1-jukebox-bg-removed_5: 8938591676839354183
+      kroco1-jukebox-bg-removed_50: -796491336042709148
+      kroco1-jukebox-bg-removed_51: 5699721057258669381
+      kroco1-jukebox-bg-removed_52: -2874269856039400857
+      kroco1-jukebox-bg-removed_53: 3282400759442388953
+      kroco1-jukebox-bg-removed_54: 3895094723940672806
+      kroco1-jukebox-bg-removed_55: -5981813221782264480
+      kroco1-jukebox-bg-removed_56: 1078383458063747813
+      kroco1-jukebox-bg-removed_57: -8454254282077122551
+      kroco1-jukebox-bg-removed_58: -2371682636371983703
+      kroco1-jukebox-bg-removed_59: -5404256720149315919
+      kroco1-jukebox-bg-removed_6: 4577851648719323474
+      kroco1-jukebox-bg-removed_60: -3816908928701378401
+      kroco1-jukebox-bg-removed_61: -6881074408328366291
+      kroco1-jukebox-bg-removed_62: -4250515985423923758
+      kroco1-jukebox-bg-removed_63: 1959973543758063969
+      kroco1-jukebox-bg-removed_64: -5897021231525838089
+      kroco1-jukebox-bg-removed_65: 7020865562453752458
+      kroco1-jukebox-bg-removed_66: 1200956473695108514
+      kroco1-jukebox-bg-removed_67: -5020504034322631624
+      kroco1-jukebox-bg-removed_68: -8054231129927496242
+      kroco1-jukebox-bg-removed_69: 3621258954736891564
+      kroco1-jukebox-bg-removed_7: 7261561345558351740
+      kroco1-jukebox-bg-removed_70: -4959169363424088354
+      kroco1-jukebox-bg-removed_71: 5342862374934055180
+      kroco1-jukebox-bg-removed_72: 151583581131430571
+      kroco1-jukebox-bg-removed_73: -2132822685565998568
+      kroco1-jukebox-bg-removed_74: 7746322073762241309
+      kroco1-jukebox-bg-removed_75: 1472669519173118669
+      kroco1-jukebox-bg-removed_76: 3336199665909279554
+      kroco1-jukebox-bg-removed_77: -2505655827850793143
+      kroco1-jukebox-bg-removed_78: -5292175003746101061
+      kroco1-jukebox-bg-removed_79: -4932696380377702725
+      kroco1-jukebox-bg-removed_8: -6447231863059777027
+      kroco1-jukebox-bg-removed_80: 3821666944274650872
+      kroco1-jukebox-bg-removed_81: -6693101558341940588
+      kroco1-jukebox-bg-removed_82: 8989032349371611558
+      kroco1-jukebox-bg-removed_83: 145605989210768451
+      kroco1-jukebox-bg-removed_84: 1698390860691835425
+      kroco1-jukebox-bg-removed_85: 8082174176754570546
+      kroco1-jukebox-bg-removed_86: 7770417399653980290
+      kroco1-jukebox-bg-removed_87: 8914462481424961673
+      kroco1-jukebox-bg-removed_9: -1753728294424238913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

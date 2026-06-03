@@ -1,0 +1,1798 @@
+fileFormatVersion: 2
+guid: 7cb0779a6ba3a5a41bdf50367bbcee55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3717709000875910466
+    second: last_boss_fix-jukebox-bg-removed_0
+  - first:
+      213: 223846901230839423
+    second: last_boss_fix-jukebox-bg-removed_1
+  - first:
+      213: 3947260718922965364
+    second: last_boss_fix-jukebox-bg-removed_2
+  - first:
+      213: 2441059554776817413
+    second: last_boss_fix-jukebox-bg-removed_3
+  - first:
+      213: -3014531210567698271
+    second: last_boss_fix-jukebox-bg-removed_4
+  - first:
+      213: -8467927551223018919
+    second: last_boss_fix-jukebox-bg-removed_5
+  - first:
+      213: 1206192181243584380
+    second: last_boss_fix-jukebox-bg-removed_6
+  - first:
+      213: -8533033722741084496
+    second: last_boss_fix-jukebox-bg-removed_7
+  - first:
+      213: 8210265253670686599
+    second: last_boss_fix-jukebox-bg-removed_8
+  - first:
+      213: 528304646122673495
+    second: last_boss_fix-jukebox-bg-removed_9
+  - first:
+      213: 4626161873469682669
+    second: last_boss_fix-jukebox-bg-removed_10
+  - first:
+      213: 2151181001127979077
+    second: last_boss_fix-jukebox-bg-removed_11
+  - first:
+      213: 602450874921438185
+    second: last_boss_fix-jukebox-bg-removed_12
+  - first:
+      213: -1425992214197598804
+    second: last_boss_fix-jukebox-bg-removed_13
+  - first:
+      213: -6779104056542826973
+    second: last_boss_fix-jukebox-bg-removed_14
+  - first:
+      213: 1537185235498536315
+    second: last_boss_fix-jukebox-bg-removed_15
+  - first:
+      213: -1668896638454378470
+    second: last_boss_fix-jukebox-bg-removed_16
+  - first:
+      213: 7289996533695304891
+    second: last_boss_fix-jukebox-bg-removed_17
+  - first:
+      213: -638617803257468363
+    second: last_boss_fix-jukebox-bg-removed_18
+  - first:
+      213: 138576305329632098
+    second: last_boss_fix-jukebox-bg-removed_19
+  - first:
+      213: 7557883005280898862
+    second: last_boss_fix-jukebox-bg-removed_20
+  - first:
+      213: 6480640311582667124
+    second: last_boss_fix-jukebox-bg-removed_21
+  - first:
+      213: -4698618097062545998
+    second: last_boss_fix-jukebox-bg-removed_22
+  - first:
+      213: -388113800430614138
+    second: last_boss_fix-jukebox-bg-removed_23
+  - first:
+      213: -6079127973376346429
+    second: last_boss_fix-jukebox-bg-removed_24
+  - first:
+      213: -803380998226589085
+    second: last_boss_fix-jukebox-bg-removed_25
+  - first:
+      213: 9156491535519087057
+    second: last_boss_fix-jukebox-bg-removed_26
+  - first:
+      213: 4573750562569761517
+    second: last_boss_fix-jukebox-bg-removed_27
+  - first:
+      213: -911533937641616277
+    second: last_boss_fix-jukebox-bg-removed_28
+  - first:
+      213: -3574577941059890788
+    second: last_boss_fix-jukebox-bg-removed_29
+  - first:
+      213: 5106520065169659525
+    second: last_boss_fix-jukebox-bg-removed_30
+  - first:
+      213: 5982368903078557223
+    second: last_boss_fix-jukebox-bg-removed_31
+  - first:
+      213: 5612646275385100926
+    second: last_boss_fix-jukebox-bg-removed_32
+  - first:
+      213: 6630534281778762693
+    second: last_boss_fix-jukebox-bg-removed_33
+  - first:
+      213: 4198853092360630479
+    second: last_boss_fix-jukebox-bg-removed_34
+  - first:
+      213: -7028848010971900582
+    second: last_boss_fix-jukebox-bg-removed_35
+  - first:
+      213: 3910431876121475543
+    second: last_boss_fix-jukebox-bg-removed_36
+  - first:
+      213: -3549983617427119136
+    second: last_boss_fix-jukebox-bg-removed_37
+  - first:
+      213: -6555639369178184555
+    second: last_boss_fix-jukebox-bg-removed_38
+  - first:
+      213: -3726506791445154187
+    second: last_boss_fix-jukebox-bg-removed_39
+  - first:
+      213: 2993796428119169763
+    second: last_boss_fix-jukebox-bg-removed_40
+  - first:
+      213: -7319080828348001468
+    second: last_boss_fix-jukebox-bg-removed_41
+  - first:
+      213: 5704303669726728959
+    second: last_boss_fix-jukebox-bg-removed_42
+  - first:
+      213: 9120943240491096284
+    second: last_boss_fix-jukebox-bg-removed_43
+  - first:
+      213: 2712820109385482361
+    second: last_boss_fix-jukebox-bg-removed_44
+  - first:
+      213: -7430307247155580414
+    second: last_boss_fix-jukebox-bg-removed_45
+  - first:
+      213: 6348736287230225218
+    second: last_boss_fix-jukebox-bg-removed_46
+  - first:
+      213: 47501064615145192
+    second: last_boss_fix-jukebox-bg-removed_47
+  - first:
+      213: -1062715302528325829
+    second: last_boss_fix-jukebox-bg-removed_48
+  - first:
+      213: -1309965886849260117
+    second: last_boss_fix-jukebox-bg-removed_49
+  - first:
+      213: 6348358154361071486
+    second: last_boss_fix-jukebox-bg-removed_50
+  - first:
+      213: -236643790717653549
+    second: last_boss_fix-jukebox-bg-removed_51
+  - first:
+      213: 731390547353007246
+    second: last_boss_fix-jukebox-bg-removed_52
+  - first:
+      213: 308639678433731682
+    second: last_boss_fix-jukebox-bg-removed_53
+  - first:
+      213: -2523259561620874059
+    second: last_boss_fix-jukebox-bg-removed_54
+  - first:
+      213: 2670214334391554962
+    second: last_boss_fix-jukebox-bg-removed_55
+  - first:
+      213: -1644854871379716241
+    second: last_boss_fix-jukebox-bg-removed_56
+  - first:
+      213: 4995416935626882843
+    second: last_boss_fix-jukebox-bg-removed_57
+  - first:
+      213: 5070230751319055530
+    second: last_boss_fix-jukebox-bg-removed_58
+  - first:
+      213: 1704551045976358997
+    second: last_boss_fix-jukebox-bg-removed_59
+  - first:
+      213: 6285883585949441082
+    second: last_boss_fix-jukebox-bg-removed_60
+  - first:
+      213: 3008999546493301267
+    second: last_boss_fix-jukebox-bg-removed_61
+  - first:
+      213: -2726779119514562012
+    second: last_boss_fix-jukebox-bg-removed_62
+  - first:
+      213: 1014027995283690788
+    second: last_boss_fix-jukebox-bg-removed_63
+  - first:
+      213: 5986579989423430645
+    second: last_boss_fix-jukebox-bg-removed_64
+  - first:
+      213: 1103386178708377078
+    second: last_boss_fix-jukebox-bg-removed_65
+  - first:
+      213: -5687343921891874698
+    second: last_boss_fix-jukebox-bg-removed_66
+  - first:
+      213: 1870526867074245111
+    second: last_boss_fix-jukebox-bg-removed_67
+  - first:
+      213: 1270294052345722141
+    second: last_boss_fix-jukebox-bg-removed_68
+  - first:
+      213: -200264651523259650
+    second: last_boss_fix-jukebox-bg-removed_69
+  - first:
+      213: -946524981159975792
+    second: last_boss_fix-jukebox-bg-removed_70
+  - first:
+      213: -316467591314927170
+    second: last_boss_fix-jukebox-bg-removed_71
+  - first:
+      213: 1706718373588481399
+    second: last_boss_fix-jukebox-bg-removed_72
+  - first:
+      213: -8384481206793039432
+    second: last_boss_fix-jukebox-bg-removed_73
+  - first:
+      213: 1913162921088610763
+    second: last_boss_fix-jukebox-bg-removed_74
+  - first:
+      213: 8734539054408627883
+    second: last_boss_fix-jukebox-bg-removed_75
+  - first:
+      213: 6364592792157243856
+    second: last_boss_fix-jukebox-bg-removed_76
+  - first:
+      213: -5779917934768064354
+    second: last_boss_fix-jukebox-bg-removed_77
+  - first:
+      213: 6271990778984010938
+    second: last_boss_fix-jukebox-bg-removed_78
+  - first:
+      213: -4477759856786713364
+    second: last_boss_fix-jukebox-bg-removed_79
+  - first:
+      213: -7277636135914536707
+    second: last_boss_fix-jukebox-bg-removed_80
+  - first:
+      213: -2895791323999451976
+    second: last_boss_fix-jukebox-bg-removed_81
+  - first:
+      213: -1675327053262168891
+    second: last_boss_fix-jukebox-bg-removed_82
+  - first:
+      213: 9139751288290971004
+    second: last_boss_fix-jukebox-bg-removed_83
+  - first:
+      213: 7140055548713911177
+    second: last_boss_fix-jukebox-bg-removed_84
+  - first:
+      213: 290452150030923468
+    second: last_boss_fix-jukebox-bg-removed_85
+  - first:
+      213: -3933688123430468151
+    second: last_boss_fix-jukebox-bg-removed_86
+  - first:
+      213: -5860117004010095005
+    second: last_boss_fix-jukebox-bg-removed_87
+  - first:
+      213: 773342617768717959
+    second: last_boss_fix-jukebox-bg-removed_88
+  - first:
+      213: -7197359712502454647
+    second: last_boss_fix-jukebox-bg-removed_89
+  - first:
+      213: -1484796895151172704
+    second: last_boss_fix-jukebox-bg-removed_90
+  - first:
+      213: -5968488606272759598
+    second: last_boss_fix-jukebox-bg-removed_91
+  - first:
+      213: -5420518353464468786
+    second: last_boss_fix-jukebox-bg-removed_92
+  - first:
+      213: -6264044201080940222
+    second: last_boss_fix-jukebox-bg-removed_93
+  - first:
+      213: -6760815684764691959
+    second: last_boss_fix-jukebox-bg-removed_94
+  - first:
+      213: -3458018701907452780
+    second: last_boss_fix-jukebox-bg-removed_95
+  - first:
+      213: -2508917048980318309
+    second: last_boss_fix-jukebox-bg-removed_96
+  - first:
+      213: -4512749870546736664
+    second: last_boss_fix-jukebox-bg-removed_97
+  - first:
+      213: -4204680699970326008
+    second: last_boss_fix-jukebox-bg-removed_98
+  - first:
+      213: 8274387945699096731
+    second: last_boss_fix-jukebox-bg-removed_99
+  - first:
+      213: -6104245384352058453
+    second: last_boss_fix-jukebox-bg-removed_100
+  - first:
+      213: -5741761649533207139
+    second: last_boss_fix-jukebox-bg-removed_101
+  - first:
+      213: 8438770717699350640
+    second: last_boss_fix-jukebox-bg-removed_102
+  - first:
+      213: 1541836226196230149
+    second: last_boss_fix-jukebox-bg-removed_103
+  - first:
+      213: -735851015328209275
+    second: last_boss_fix-jukebox-bg-removed_104
+  - first:
+      213: -3640804391337048061
+    second: last_boss_fix-jukebox-bg-removed_105
+  - first:
+      213: 364090634582978686
+    second: last_boss_fix-jukebox-bg-removed_106
+  - first:
+      213: 7802252409054801145
+    second: last_boss_fix-jukebox-bg-removed_107
+  - first:
+      213: -2581261933897121134
+    second: last_boss_fix-jukebox-bg-removed_108
+  - first:
+      213: 4681629983327653187
+    second: last_boss_fix-jukebox-bg-removed_109
+  - first:
+      213: 8003317682110583721
+    second: last_boss_fix-jukebox-bg-removed_110
+  - first:
+      213: 4607221864944093209
+    second: last_boss_fix-jukebox-bg-removed_111
+  - first:
+      213: 4160770078741896063
+    second: last_boss_fix-jukebox-bg-removed_112
+  - first:
+      213: -7889278025456918310
+    second: last_boss_fix-jukebox-bg-removed_113
+  - first:
+      213: -5762862430470725964
+    second: last_boss_fix-jukebox-bg-removed_114
+  - first:
+      213: -28954211482505706
+    second: last_boss_fix-jukebox-bg-removed_115
+  - first:
+      213: 8564565765472969019
+    second: last_boss_fix-jukebox-bg-removed_116
+  - first:
+      213: 4666856391086137839
+    second: last_boss_fix-jukebox-bg-removed_117
+  - first:
+      213: 9024987277518773498
+    second: last_boss_fix-jukebox-bg-removed_118
+  - first:
+      213: 1449178195325228261
+    second: last_boss_fix-jukebox-bg-removed_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 928
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebad4886c5b086cc0800000000000000
+      internalID: -3717709000875910466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 946
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76afe712934b1300800000000000000
+      internalID: 223846901230839423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 944
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471a14bd5bc77c630800000000000000
+      internalID: 3947260718922965364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 789
+        width: 123
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f9b065bb260e120800000000000000
+      internalID: 2441059554776817413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 800
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f90ede5614db010800000000000000
+      internalID: 1206192181243584380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 799
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bea6930a03949980800000000000000
+      internalID: -8533033722741084496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 122
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f06c49fb8b0f170800000000000000
+      internalID: 8210265253670686599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_9
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 801
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755945dc64ae45700800000000000000
+      internalID: 528304646122673495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 800
+        width: 133
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5486dcb19b78add10800000000000000
+      internalID: 2151181001127979077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_12
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 801
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebc05af0e55c5800800000000000000
+      internalID: 602450874921438185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_13
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 802
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5874ce2abd53ce0800000000000000
+      internalID: -1425992214197598804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 629
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d8ddbc3dd255510800000000000000
+      internalID: 1537185235498536315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_16
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 630
+        width: 157
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10551a7953e6d8e0800000000000000
+      internalID: -1668896638454378470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 620
+        width: 160
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4dcbc29354b2560800000000000000
+      internalID: 7289996533695304891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 629
+        width: 226
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a2991dd7c2327f0800000000000000
+      internalID: -638617803257468363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 630
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263757d5a625ce100800000000000000
+      internalID: 138576305329632098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_20
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 630
+        width: 176
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fcab7cc8ef2e860800000000000000
+      internalID: 7557883005280898862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 479
+        width: 132
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726375742d4a50350800000000000000
+      internalID: 5982368903078557223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 479
+        width: 150
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a8f36ec0024ed40800000000000000
+      internalID: 5612646275385100926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_35
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 478
+        width: 123
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a551fc579f3847e90800000000000000
+      internalID: -7028848010971900582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_36
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 479
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9b59ea215a44630800000000000000
+      internalID: 3910431876121475543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_37
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 480
+        width: 98
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3ecc465bcebbec0800000000000000
+      internalID: -3549983617427119136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_38
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 544
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594819c1ab0b505a0800000000000000
+      internalID: -6555639369178184555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_39
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 539
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576b4da21d9c84cc0800000000000000
+      internalID: -3726506791445154187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_41
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 493
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44312f7c3c66d6a90800000000000000
+      internalID: -7319080828348001468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_43
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 496
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8d8f96d89149e70800000000000000
+      internalID: 9120943240491096284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_44
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 522
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970457f248fd5a520800000000000000
+      internalID: 2712820109385482361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_45
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 521
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202f7491dee32e890800000000000000
+      internalID: -7430307247155580414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_48
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 499
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b376d67101a7041f0800000000000000
+      internalID: -1062715302528325829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_49
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 513
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5687667f012dde0800000000000000
+      internalID: -1309965886849260117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 338
+        width: 113
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55001fc2528c7a710800000000000000
+      internalID: 1704551045976358997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_60
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 327
+        width: 129
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c99ff31d1fb3750800000000000000
+      internalID: 6285883585949441082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_61
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 330
+        width: 164
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3127b0a252d12c920800000000000000
+      internalID: 3008999546493301267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_63
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 330
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4259f23d61d821e00800000000000000
+      internalID: 1014027995283690788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_64
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 329
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb9b0938ca941350800000000000000
+      internalID: 5986579989423430645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_65
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 328
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd0dff22e3005f00800000000000000
+      internalID: 1103386178708377078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_70
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 316
+        width: 103
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0942de66b844dd2f0800000000000000
+      internalID: -946524981159975792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 178
+        width: 131
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df084423e74a00b90800000000000000
+      internalID: -7277636135914536707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_81
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 178
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4ca55222510d7d0800000000000000
+      internalID: -2895791323999451976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_82
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 172
+        width: 128
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccd4bbdbea00c8e0800000000000000
+      internalID: -1675327053262168891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_83
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 176
+        width: 129
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d800a4f5be6de70800000000000000
+      internalID: 9139751288290971004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_84
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 170
+        width: 152
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98346a121b2961360800000000000000
+      internalID: 7140055548713911177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_85
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 169
+        width: 190
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc677da01b4e70400800000000000000
+      internalID: 290452150030923468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_101
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 25
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dbc9e633a2150b0800000000000000
+      internalID: -5741761649533207139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_103
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5005144f0e3b56510800000000000000
+      internalID: 1541836226196230149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_104
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 82
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58660c7766bb9c5f0800000000000000
+      internalID: -735851015328209275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_105
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 22
+        width: 57
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3084ca522b3497dc0800000000000000
+      internalID: -3640804391337048061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_106
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 22
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e707d5cc0828d0500800000000000000
+      internalID: 364090634582978686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_109
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 74
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d001e5aad78f040800000000000000
+      internalID: 4681629983327653187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_110
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 22
+        width: 184
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3ddca470f711f60800000000000000
+      internalID: 8003317682110583721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_111
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 17
+        width: 142
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918c76540e320ff30800000000000000
+      internalID: 4607221864944093209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_114
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 22
+        width: 165
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be195607233600b0800000000000000
+      internalID: -5762862430470725964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_116
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 23
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31ec7acf237bd670800000000000000
+      internalID: 8564565765472969019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last_boss_fix-jukebox-bg-removed_117
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 25
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe16370692104c040800000000000000
+      internalID: 4666856391086137839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2c79a0bbe28b53748bc6aead8505e899
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      last_boss_fix-jukebox-bg-removed_0: -3717709000875910466
+      last_boss_fix-jukebox-bg-removed_1: 223846901230839423
+      last_boss_fix-jukebox-bg-removed_10: 4626161873469682669
+      last_boss_fix-jukebox-bg-removed_100: -6104245384352058453
+      last_boss_fix-jukebox-bg-removed_101: -5741761649533207139
+      last_boss_fix-jukebox-bg-removed_102: 8438770717699350640
+      last_boss_fix-jukebox-bg-removed_103: 1541836226196230149
+      last_boss_fix-jukebox-bg-removed_104: -735851015328209275
+      last_boss_fix-jukebox-bg-removed_105: -3640804391337048061
+      last_boss_fix-jukebox-bg-removed_106: 364090634582978686
+      last_boss_fix-jukebox-bg-removed_107: 7802252409054801145
+      last_boss_fix-jukebox-bg-removed_108: -2581261933897121134
+      last_boss_fix-jukebox-bg-removed_109: 4681629983327653187
+      last_boss_fix-jukebox-bg-removed_11: 2151181001127979077
+      last_boss_fix-jukebox-bg-removed_110: 8003317682110583721
+      last_boss_fix-jukebox-bg-removed_111: 4607221864944093209
+      last_boss_fix-jukebox-bg-removed_112: 4160770078741896063
+      last_boss_fix-jukebox-bg-removed_113: -7889278025456918310
+      last_boss_fix-jukebox-bg-removed_114: -5762862430470725964
+      last_boss_fix-jukebox-bg-removed_115: -28954211482505706
+      last_boss_fix-jukebox-bg-removed_116: 8564565765472969019
+      last_boss_fix-jukebox-bg-removed_117: 4666856391086137839
+      last_boss_fix-jukebox-bg-removed_118: 9024987277518773498
+      last_boss_fix-jukebox-bg-removed_119: 1449178195325228261
+      last_boss_fix-jukebox-bg-removed_12: 602450874921438185
+      last_boss_fix-jukebox-bg-removed_13: -1425992214197598804
+      last_boss_fix-jukebox-bg-removed_14: -6779104056542826973
+      last_boss_fix-jukebox-bg-removed_15: 1537185235498536315
+      last_boss_fix-jukebox-bg-removed_16: -1668896638454378470
+      last_boss_fix-jukebox-bg-removed_17: 7289996533695304891
+      last_boss_fix-jukebox-bg-removed_18: -638617803257468363
+      last_boss_fix-jukebox-bg-removed_19: 138576305329632098
+      last_boss_fix-jukebox-bg-removed_2: 3947260718922965364
+      last_boss_fix-jukebox-bg-removed_20: 7557883005280898862
+      last_boss_fix-jukebox-bg-removed_21: 6480640311582667124
+      last_boss_fix-jukebox-bg-removed_22: -4698618097062545998
+      last_boss_fix-jukebox-bg-removed_23: -388113800430614138
+      last_boss_fix-jukebox-bg-removed_24: -6079127973376346429
+      last_boss_fix-jukebox-bg-removed_25: -803380998226589085
+      last_boss_fix-jukebox-bg-removed_26: 9156491535519087057
+      last_boss_fix-jukebox-bg-removed_27: 4573750562569761517
+      last_boss_fix-jukebox-bg-removed_28: -911533937641616277
+      last_boss_fix-jukebox-bg-removed_29: -3574577941059890788
+      last_boss_fix-jukebox-bg-removed_3: 2441059554776817413
+      last_boss_fix-jukebox-bg-removed_30: 5106520065169659525
+      last_boss_fix-jukebox-bg-removed_31: 5982368903078557223
+      last_boss_fix-jukebox-bg-removed_32: 5612646275385100926
+      last_boss_fix-jukebox-bg-removed_33: 6630534281778762693
+      last_boss_fix-jukebox-bg-removed_34: 4198853092360630479
+      last_boss_fix-jukebox-bg-removed_35: -7028848010971900582
+      last_boss_fix-jukebox-bg-removed_36: 3910431876121475543
+      last_boss_fix-jukebox-bg-removed_37: -3549983617427119136
+      last_boss_fix-jukebox-bg-removed_38: -6555639369178184555
+      last_boss_fix-jukebox-bg-removed_39: -3726506791445154187
+      last_boss_fix-jukebox-bg-removed_4: -3014531210567698271
+      last_boss_fix-jukebox-bg-removed_40: 2993796428119169763
+      last_boss_fix-jukebox-bg-removed_41: -7319080828348001468
+      last_boss_fix-jukebox-bg-removed_42: 5704303669726728959
+      last_boss_fix-jukebox-bg-removed_43: 9120943240491096284
+      last_boss_fix-jukebox-bg-removed_44: 2712820109385482361
+      last_boss_fix-jukebox-bg-removed_45: -7430307247155580414
+      last_boss_fix-jukebox-bg-removed_46: 6348736287230225218
+      last_boss_fix-jukebox-bg-removed_47: 47501064615145192
+      last_boss_fix-jukebox-bg-removed_48: -1062715302528325829
+      last_boss_fix-jukebox-bg-removed_49: -1309965886849260117
+      last_boss_fix-jukebox-bg-removed_5: -8467927551223018919
+      last_boss_fix-jukebox-bg-removed_50: 6348358154361071486
+      last_boss_fix-jukebox-bg-removed_51: -236643790717653549
+      last_boss_fix-jukebox-bg-removed_52: 731390547353007246
+      last_boss_fix-jukebox-bg-removed_53: 308639678433731682
+      last_boss_fix-jukebox-bg-removed_54: -2523259561620874059
+      last_boss_fix-jukebox-bg-removed_55: 2670214334391554962
+      last_boss_fix-jukebox-bg-removed_56: -1644854871379716241
+      last_boss_fix-jukebox-bg-removed_57: 4995416935626882843
+      last_boss_fix-jukebox-bg-removed_58: 5070230751319055530
+      last_boss_fix-jukebox-bg-removed_59: 1704551045976358997
+      last_boss_fix-jukebox-bg-removed_6: 1206192181243584380
+      last_boss_fix-jukebox-bg-removed_60: 6285883585949441082
+      last_boss_fix-jukebox-bg-removed_61: 3008999546493301267
+      last_boss_fix-jukebox-bg-removed_62: -2726779119514562012
+      last_boss_fix-jukebox-bg-removed_63: 1014027995283690788
+      last_boss_fix-jukebox-bg-removed_64: 5986579989423430645
+      last_boss_fix-jukebox-bg-removed_65: 1103386178708377078
+      last_boss_fix-jukebox-bg-removed_66: -5687343921891874698
+      last_boss_fix-jukebox-bg-removed_67: 1870526867074245111
+      last_boss_fix-jukebox-bg-removed_68: 1270294052345722141
+      last_boss_fix-jukebox-bg-removed_69: -200264651523259650
+      last_boss_fix-jukebox-bg-removed_7: -8533033722741084496
+      last_boss_fix-jukebox-bg-removed_70: -946524981159975792
+      last_boss_fix-jukebox-bg-removed_71: -316467591314927170
+      last_boss_fix-jukebox-bg-removed_72: 1706718373588481399
+      last_boss_fix-jukebox-bg-removed_73: -8384481206793039432
+      last_boss_fix-jukebox-bg-removed_74: 1913162921088610763
+      last_boss_fix-jukebox-bg-removed_75: 8734539054408627883
+      last_boss_fix-jukebox-bg-removed_76: 6364592792157243856
+      last_boss_fix-jukebox-bg-removed_77: -5779917934768064354
+      last_boss_fix-jukebox-bg-removed_78: 6271990778984010938
+      last_boss_fix-jukebox-bg-removed_79: -4477759856786713364
+      last_boss_fix-jukebox-bg-removed_8: 8210265253670686599
+      last_boss_fix-jukebox-bg-removed_80: -7277636135914536707
+      last_boss_fix-jukebox-bg-removed_81: -2895791323999451976
+      last_boss_fix-jukebox-bg-removed_82: -1675327053262168891
+      last_boss_fix-jukebox-bg-removed_83: 9139751288290971004
+      last_boss_fix-jukebox-bg-removed_84: 7140055548713911177
+      last_boss_fix-jukebox-bg-removed_85: 290452150030923468
+      last_boss_fix-jukebox-bg-removed_86: -3933688123430468151
+      last_boss_fix-jukebox-bg-removed_87: -5860117004010095005
+      last_boss_fix-jukebox-bg-removed_88: 773342617768717959
+      last_boss_fix-jukebox-bg-removed_89: -7197359712502454647
+      last_boss_fix-jukebox-bg-removed_9: 528304646122673495
+      last_boss_fix-jukebox-bg-removed_90: -1484796895151172704
+      last_boss_fix-jukebox-bg-removed_91: -5968488606272759598
+      last_boss_fix-jukebox-bg-removed_92: -5420518353464468786
+      last_boss_fix-jukebox-bg-removed_93: -6264044201080940222
+      last_boss_fix-jukebox-bg-removed_94: -6760815684764691959
+      last_boss_fix-jukebox-bg-removed_95: -3458018701907452780
+      last_boss_fix-jukebox-bg-removed_96: -2508917048980318309
+      last_boss_fix-jukebox-bg-removed_97: -4512749870546736664
+      last_boss_fix-jukebox-bg-removed_98: -4204680699970326008
+      last_boss_fix-jukebox-bg-removed_99: 8274387945699096731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
