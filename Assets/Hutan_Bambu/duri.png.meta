@@ -103,9 +103,9 @@ TextureImporter:
       name: duri_0
       rect:
         serializedVersion: 2
-        x: 15
+        x: 20
         y: 1063
-        width: 559
+        width: 548
         height: 488
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -127,7 +127,7 @@ TextureImporter:
         serializedVersion: 2
         x: 585
         y: 1058
-        width: 571
+        width: 583
         height: 496
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -147,13 +147,13 @@ TextureImporter:
       name: duri_2
       rect:
         serializedVersion: 2
-        x: 1156
+        x: 1175
         y: 1067
-        width: 557
+        width: 538
         height: 491
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 7, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -257,13 +257,13 @@ TextureImporter:
       name: duri_7
       rect:
         serializedVersion: 2
-        x: 578
+        x: 589
         y: 2
-        width: 578
+        width: 557
         height: 492
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 14, y: 0, z: 12, w: 0}
       customData: 
       outline: []
       physicsShape: []
