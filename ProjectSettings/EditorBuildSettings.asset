@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HutanBambu(MiniBoss).unity
     guid: 97a4d3ac157b9544da2b9f19fe9deee4
+  - enabled: 1
+    path: Assets/Scenes/Perguruan.unity
+    guid: a2293b2c2d0582a478fedd847cc54a14
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
