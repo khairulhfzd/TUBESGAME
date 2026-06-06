@@ -104,6 +104,7 @@ GameObject:
   - component: {fileID: 6596920530138846750}
   - component: {fileID: 2909665980852742765}
   - component: {fileID: 2249179131873254878}
+  - component: {fileID: 8171672948553630792}
   m_Layer: 0
   m_Name: NPC_Guru
   m_TagString: Untagged
@@ -279,3 +280,25 @@ MonoBehaviour:
   npcSprite: {fileID: 2604424142624015390}
   normalSprite: {fileID: 8119350568674415240, guid: 6bcbaffd152fee44db84fc390f286f64, type: 3}
   talkSprite: {fileID: -3959336163770696502, guid: 28f2929b0dff10c498a4823b9b38c980, type: 3}
+--- !u!95 &8171672948553630792
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8810190377813776925}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e938ec64a29d512438cb3a1322181d5c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
