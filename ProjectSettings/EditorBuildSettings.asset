@@ -18,11 +18,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Perguruan.unity
     guid: a2293b2c2d0582a478fedd847cc54a14
   - enabled: 1
-    path: Assets/Scenes/Puncak.unity
-    guid: cfa7f2353f65162408f409a2d3e7b3ba
-  - enabled: 1
     path: Assets/Scenes/Goa.unity
     guid: 0a6298d922c5242459380500425999d4
+  - enabled: 1
+    path: Assets/Scenes/Puncak.unity
+    guid: cfa7f2353f65162408f409a2d3e7b3ba
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
