@@ -1,8 +1,8 @@
-/*using UnityEngine;
+using UnityEngine;
 
 public class TrapDamage : MonoBehaviour
 {
-    public int damageAmount = 20;
+    public int damageAmount = 15;
 
     // Perhatikan perubahannya: sekarang menggunakan OnCollisionEnter2D
     private void OnCollisionEnter2D(Collision2D collision)
@@ -19,4 +19,3 @@ public class TrapDamage : MonoBehaviour
         }
     }
 }
-*/

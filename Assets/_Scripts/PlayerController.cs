@@ -38,6 +38,11 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         anim = visual.GetComponent<Animator>();
+        if (PlayerData.Instance != null)
+        {
+            canDashUnlocked = PlayerData.Instance.hasDash;
+            canDoubleJumpUnlocked = PlayerData.Instance.hasDoubleJump;
+        }
     }
 
     void Update()
