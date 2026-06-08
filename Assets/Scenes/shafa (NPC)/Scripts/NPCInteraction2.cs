@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class NPCInteraction1 : MonoBehaviour
+public class NPCInteraction2 : MonoBehaviour
 {
     public GameObject interactText;
     public GameObject dialogPanel;
