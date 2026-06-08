@@ -25,6 +25,12 @@ public class PlayerController : MonoBehaviour
     public float attackRate = 2f; // Kecepatan serangan (bisa 2 kali per detik)
     private float nextAttackTime = 0f;
 
+    [Header("Attack Hitbox Settings")]
+    public Transform attackPoint;      // Objek kosong di depan player untuk pusat tebasan
+    public float attackRange = 1.5f;   // Jangkauan pedang Ninja
+    public LayerMask enemyLayers;      // Layer khusus musuh/bos agar tebakan tidak salah sasaran
+    public float attackDamage = 50f;   // Jumlah damage pedang Ninja ke Bos
+
     [Header("Components")]
     private Rigidbody2D rb;
     public Transform groundCheck;
@@ -119,6 +125,26 @@ public class PlayerController : MonoBehaviour
 
         // Cek log di Console untuk memastikan fungsi terpanggil
         Debug.Log("Ninja Menyerang!");
+
+        if (attackPoint == null) return;
+
+        // 1. Buat lingkaran imajiner di posisi attackPoint untuk mendeteksi Collider di layer musuh
+        // BENAR 
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+
+        // 2. Loop semua objek yang terkena lingkaran sensor tersebut
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            // 3. Cek apakah objek tersebut memiliki komponen BossHealth
+            BossHealth boss = enemy.GetComponent<BossHealth>();
+
+            if (boss != null)
+            {
+                // 4. Jika terbukti itu bos, panggil fungsi TakeDamage dan berikan damage!
+                boss.TakeDamage(attackDamage);
+                Debug.Log("Pedang Ninja mengenai Bos Aethelgard!");
+            }
+        }
     }
 
     void Flip()
